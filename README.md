@@ -25,7 +25,7 @@
 
 - :telescope: I'm currently taking bootcamp of Full Stack Web Developer @ The Brridge School, Valencia.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Full time geek.
 
 - :zap: In my free time I like to play FPS games and play guitar.
 
