@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <span>Hi there 👋, I'm Jorge Campo</span><br>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/jorge-campo-silvestre-350b7b174/">
@@ -11,7 +10,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=yorch82&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
