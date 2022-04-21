@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Jorge Campo
 <div id="header" align="center">
+  <span>Hi there 👋, I'm Jorge Campo</span>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/jorge-campo-silvestre-350b7b174/">
