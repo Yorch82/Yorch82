@@ -51,7 +51,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" **alt="Sequelize" width="40" height="40"/>
-  <img src="https://www.pngfind.com/pngs/m/430-4309574_mongoose-js-logo-hd-png-download.png" title="Mongoose" **alt="mongoose" width="40" height="40"/>
+ 
 </div>
 
 ---
