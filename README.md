@@ -19,9 +19,9 @@
 
 ---
 
-### :man_technologist: About Me : I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+### :man_technologist: About Me : I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
-- :telescope: I'm currently taking bootcamp of Full Stack Web Developer @ The Bridge School, Valencia.
+- :telescope: Looking for my first tech dream job
 
 - :seedling: Full time geek.
 
