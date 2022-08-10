@@ -93,11 +93,11 @@
 <h2>CyberSecurity</h2>
 <div>
   <img height="24px" src="https://img.shields.io/badge/burpsuite-%23039BE5.svg?style=for-the-badge&logo=BurpSuite">
-  <img height="24px" src="https://img.shields.io/badge/nmap-%23039BE5.svg?style=for-the-badge&logo=Nmap">
-  <img height="24px" src="https://img.shields.io/badge/nmap-%23039BE5.svg?style=for-the-badge&logo=SmbClient">
-  <img height="24px" src="https://img.shields.io/badge/nmap-%23039BE5.svg?style=for-the-badge&logo=Crackmapexec">
-  <img height="24px" src="https://img.shields.io/badge/nmap-%23039BE5.svg?style=for-the-badge&logo=WFuzz">
-  <img height="24px" src="https://img.shields.io/badge/nmap-%23039BE5.svg?style=for-the-badge&logo=GoBuster">
+  <img height="24px" src="https://img.shields.io/badge/Nmap-%23039BE5.svg?style=for-the-badge&logo=Nmap">
+  <img height="24px" src="https://img.shields.io/badge/smbclient-%23039BE5.svg?style=for-the-badge&logo=SmbClient">
+  <img height="24px" src="https://img.shields.io/badge/crackmapexec-%23039BE5.svg?style=for-the-badge&logo=Crackmapexec">
+  <img height="24px" src="https://img.shields.io/badge/wfuzz-%23039BE5.svg?style=for-the-badge&logo=WFuzz">
+  <img height="24px" src="https://img.shields.io/badge/gobuster-%23039BE5.svg?style=for-the-badge&logo=GoBuster">
 </div>  
 
 <h2>Others</h2>
