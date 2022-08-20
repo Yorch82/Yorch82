@@ -78,7 +78,7 @@
   <img height="24px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     <img height="24px" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
     <img height="24px" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
-    <img height="24px" src="https://img.shields.io/badge/-PHP-%23Clojure?style=for-the-badge&logo=php&logoColor=%2361DAFB">  
+    <img height="24px" src="https://img.shields.io/badge/-PHP-%23404d59.svg?style=for-the-badge&logo=php&logoColor=%2361DAFB">  
 </div>
 
 <h2>DataBases</h2>
