@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
+  
   <div id="badges">
+  
   <a href="https://www.linkedin.com/in/jorge-campo-silvestre-350b7b174/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -9,8 +11,9 @@
 <img src="https://komarev.com/ghpvc/?username=yorch82&style=flat-square&color=blue" alt=""/>
 <h1>
   Hey there!
-<!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px"/> -->
+
 </h1>
+<img src="http://www.hackthebox.eu/badge/image/1031765" alt="Hack The Box">
 </div>
 
 ---
