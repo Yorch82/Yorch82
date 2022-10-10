@@ -18,7 +18,7 @@
 
 ---
 
-### :man_technologist: About Me : I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+### :man_technologist: About Me : I am a Junior Pentester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
 - :telescope: Looking for my first tech dream job
 
