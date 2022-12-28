@@ -20,7 +20,7 @@
 
 - :seedling: Full time geek.
 
-- :zap: eJPT in progress...
+- :zap: eJPT | eCPPTv2 in progress...
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-campo-silvestre-350b7b174)
 
