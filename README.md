@@ -14,7 +14,7 @@
 
 ---
 
-### :man_technologist: About Me : I am a Backend Developer and Junior Pentester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+### :man_technologist: About Me : I am a FullStack Developer and Pentester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
 - :telescope: Looking for my first tech dream job
 
